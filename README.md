@@ -1,9 +1,7 @@
 ## Source code for "Machine Learning cơ bản" (Fundamentals of Machine Learning) book in Vietnamese 
 
-<<<<<<< HEAD
-## Order ebook at [https://fundaml.com/ebook](https://fundaml.com/ebook). 
-=======
 ## Order ebook at [https://fundaml.com/ebook](https://fundaml.com/ebook)
+
 
 The project now includes a `Dockerfile` and a `docker-compose.yml` file (which requires at least docker-compose version `1.17.1`).
 
