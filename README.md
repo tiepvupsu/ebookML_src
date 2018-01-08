@@ -2,6 +2,9 @@
 
 ## Order ebook at [https://fundaml.com/ebook](https://fundaml.com/ebook)
 
+=====================================================
+
+**Docker added by @hatung**
 
 The project now includes a `Dockerfile` and a `docker-compose.yml` file (which requires at least docker-compose version `1.17.1`).
 
