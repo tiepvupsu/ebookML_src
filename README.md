@@ -35,4 +35,3 @@ jupyterlab_1  |         http://localhost:8888/?token=8669f6fc0b665b67a5e08017c67
 Copy/paste above URL and change port to 80  into your browser.
 
 ![Docker Screenshot](docker-screenshot.jpeg)
->>>>>>> 631722d211b611c8b318e1dbdc4e5df1e4883028
